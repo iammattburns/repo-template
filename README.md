@@ -1,4 +1,7 @@
-# Project Name
+<img width="100%" alt="github-readme-banner" src="https://github.com/user-attachments/assets/93732575-afb5-4447-b466-cf4776ea63cf" />
+
+# Project 
+Name
 
 [![npm version](https://badge.fury.io/js/angular2-expandable-list.svg)](https://badge.fury.io/js/angular2-expandable-list)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
