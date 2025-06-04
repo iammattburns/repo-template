@@ -1,0 +1,24 @@
+{
+  "name": "repo-template",
+  "private": true,
+  "version": "1.0.0",
+  "description": "A template for creating new repositories",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iammattburns/repo-template.git"
+  },
+  "keywords": [
+    "template",
+    "docs"
+  ],
+  "author": "Matt Burns <hello@iammattburns.dev> (https://iammattburns.dev)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iammattburns/repo-template/issues"
+  },
+  "homepage": "https://github.com/iammattburns/repo-template#readme"
+}
